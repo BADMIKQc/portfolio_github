@@ -4,7 +4,7 @@
 
 **nom:** Tourangeau Mikael
 
-**adresse:** 1011 Rue des jacinthes, Laval
+**adresse:** Laval
 
 **adresse de courriel:** miktourangeau@gmail.com
 
