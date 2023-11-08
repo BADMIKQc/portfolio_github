@@ -75,9 +75,19 @@ https://youtu.be/n8h8BKFiObE
 
 ## Fluides
 
-Fluides est un prjoet de vidéo macro. Dans ce projet, nous avons capturé de près plusieurs liquide pour en créé une oeuvre. J'ai fait la majorité du montage vidéo et j'ai dirigé le côté artistique du projet.
+Fluides est un projet de vidéo macro. Dans ce projet, nous avons capturé de près plusieurs liquides pour en créer une oeuvre. J'ai fait la majorité du montage vidéo et j'ai dirigé le côté artistique du projet.
 
-[![img fluides](media/img/fluides.PNG)]()
+[![img fluides](media/img/fluides.PNG)](https://youtu.be/fOd_5fhXbFg)
+
+https://youtu.be/fOd_5fhXbFg
+
+## Logo Québec Avenir
+
+Québec Avenir était un faux parti politique fait en cours d'art de convaincre. J'ai créé un logo pour notre parti qui démontrait aller de l'avant.
+
+[![img campagne](media/img/bleue.png)]
+
+## Logo Québec Avenir
 
 
 
