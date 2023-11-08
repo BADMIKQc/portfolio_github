@@ -85,7 +85,7 @@ https://youtu.be/fOd_5fhXbFg
 
 Québec Avenir était un faux parti politique fait en cours d'art de convaincre. J'ai créé un logo pour notre parti qui démontrait aller de l'avant.
 
-[![img campagne](media/img/bleue.png)]
+![img campagne](media/img/bleue.png)
 
 
 
