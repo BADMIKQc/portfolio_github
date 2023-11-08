@@ -1,6 +1,6 @@
 # Tourangeau mikael
 
-# coordonnées
+# Coordonnées
 
 **nom:** Tourangeau Mikael
 
@@ -10,11 +10,11 @@
 
 **téléphone:** 438-870-3223
 
-# objectif de carrière
+# Objectif de carrière
 
 M’améliorer dans le domaine du multimédia en obtenant de l’expérience dans le marché du travail pour me développer au sein d’une équipe. j'aime particulièrement la 3D.
 
-# compétences
+# Compétences
 
 ## Maya 
 
@@ -32,7 +32,7 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 - texture
 
-## davinci resolve
+## Davinci resolve
 
 - Montage
 
@@ -73,6 +73,11 @@ Contrôle est un projet de vidéo immersif grâce à 4 écrans. Dans ce projet, 
 
 https://youtu.be/n8h8BKFiObE
 
+## Fluides
+
+Fluides est un prjoet de vidéo macro. Dans ce projet, nous avons capturé de près plusieurs liquide pour en créé une oeuvre. J'ai fait la majorité du montage vidéo et j'ai dirigé le côté artistique du projet.
+
+[![img fluides](media/img/fluides.PNG)]()
 
 
 
