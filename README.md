@@ -61,6 +61,10 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 Biota est un projet 3D et sonore, le thème était "espace empathique". J'ai fait le générique, dirigé la modélisation du projet, fait le montage et fait l'animation des couleurs.
 
-[![img BIOTA](images/biota.png)](https://youtu.be/zfSOsYgrSy4)
+[![img BIOTA](media/img/biota.PNG)](https://youtu.be/zfSOsYgrSy4)
+
+https://youtu.be/zfSOsYgrSy4
+
+
 
 
