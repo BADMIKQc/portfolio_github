@@ -59,11 +59,17 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 ## Biota
 
-Biota est un projet 3D et sonore, le thème était "espace empathique". J'ai fait le générique, dirigé la modélisation du projet, fait le montage et fait l'animation des couleurs.
+Biota est un projet 3D et sonore, le thème était "espace empathique". Dans ce projet, les larmes du personnage redonnent vie à la nature. J'ai fait le générique, dirigé la modélisation du projet, fait le montage et fait l'animation des couleurs.
 
 [![img BIOTA](media/img/biota.PNG)](https://youtu.be/zfSOsYgrSy4)
 
 https://youtu.be/zfSOsYgrSy4
+
+## Contrôle
+
+Contrôle est un projet de vidéo immersif grâce à 4 écrans. Dans ce projet, nous utilisons les quatres écrans pour amener le spectateur dans un univers surveillé et contrôlé. J'ai fait la majorité du montage vidéo.
+
+[![img controle](media/img/controle.PNG)](https://youtu.be/n8h8BKFiObE)
 
 
 
