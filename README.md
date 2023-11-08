@@ -12,6 +12,35 @@
 
 M’améliorer dans le domaine du multimédia en obtenant de l’expérience dans le marché du travail pour me développer au sein d’une équipe. j'aime particulièrement la 3D.
 
+# compétences
+## maya 
+- modélisation
+
+- uv
+
+- rigging
+
+- skinning
+
+- animation
+
+## substance
+
+- texture
+
+## davinci resolve
+
+- montage
+
+- colorisation
+
+## photoshop
+
+- retouche
+
+- graphisme
+
+
 # réalisations
 
-# epee mod
+# mini 3D environnement
