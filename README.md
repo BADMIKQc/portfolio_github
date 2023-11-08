@@ -87,7 +87,6 @@ Québec Avenir était un faux parti politique fait en cours d'art de convaincre.
 
 [![img campagne](media/img/bleue.png)]
 
-## Logo Québec Avenir
 
 
 
