@@ -2,7 +2,7 @@
 
 # coordonnées
 
-**nom:** Mikael
+**nom:** Tourangeau Mikael
 
 **adresse:** 1011 Rue des jacinthes, Laval
 
