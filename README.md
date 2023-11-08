@@ -71,6 +71,8 @@ Contrôle est un projet de vidéo immersif grâce à 4 écrans. Dans ce projet, 
 
 [![img controle](media/img/controle.PNG)](https://youtu.be/n8h8BKFiObE)
 
+https://youtu.be/n8h8BKFiObE
+
 
 
 
