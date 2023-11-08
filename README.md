@@ -15,7 +15,9 @@
 M’améliorer dans le domaine du multimédia en obtenant de l’expérience dans le marché du travail pour me développer au sein d’une équipe. j'aime particulièrement la 3D.
 
 # compétences
-## maya 
+
+## Maya 
+
 - modélisation
 
 - uv
@@ -26,17 +28,17 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 - animation
 
-## substance
+## Substance
 
 - texture
 
 ## davinci resolve
 
-- montage
+- Montage
 
 - colorisation
 
-## photoshop
+## Photoshop
 
 - retouche
 
@@ -46,6 +48,8 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 # réalisations
 
 ## mini 3D environnement
+
+### idari est un projet d'environnement 3D inspiré des projets 3D de mini environnement. J'ai utilisé Maya pour la modélisation et les UV, ainsi que Substance pour les textures.
 
 ![alt text](media/img/etape.PNG)
 
