@@ -45,6 +45,10 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 ## mini 3D environnement
 
-![alt text]()
+![alt text](media/img/etape.PNG)
+
+![alt text](media/img/rendu_1.png)
+
+![alt text](media/img/rendu_2.jpg)
 
 
