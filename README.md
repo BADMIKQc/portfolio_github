@@ -57,6 +57,12 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 ![alt text](media/img/rendu_2.jpg)
 
+## écazard
+
+écazard est un projet de modélisation 3D. Je me suis inspiré de pokemon pour le personnage. J'ai utilisé Maya pour la modélisation, les UV, le rigging et le skinning ainsi que Substance pour les textures.
+
+![alt text](media/img/ecazard.PNG)
+
 ## Biota
 
 Biota est un projet 3D et sonore, le thème était "espace empathique". Dans ce projet, les larmes du personnage redonnent vie à la nature. J'ai fait le générique, dirigé la modélisation du projet, fait le montage et fait l'animation des couleurs. Les logiciels utilisés sont: Maya, Davinci Resolve et Vcv rack.
