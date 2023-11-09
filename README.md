@@ -61,7 +61,7 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 écazard est un projet de modélisation 3D. Je me suis inspiré de pokemon pour le personnage. J'ai utilisé Maya pour la modélisation, les UV, le rigging et le skinning ainsi que Substance pour les textures.
 
-![alt text](media/img/ecazard.PNG)
+![alt text](media/img/ecazard.jpg)
 
 ## Biota
 
