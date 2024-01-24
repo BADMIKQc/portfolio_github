@@ -58,17 +58,22 @@ Le temple prismatique est un mini-jeux interactif avec le thème d'«escape game
 <img align="center" src='media/img/boite_1.jpg' width='400'>
 </p>
 
+## Esprit gourmand
+
+
+
+
 
 
 ## Idari
 
  Idari est un projet d'environnement 3D inspiré des projets 3D de mini environnement. J'ai utilisé Maya pour la modélisation et les UV, ainsi que Substance pour les textures.
 
-![alt text](media/img/etape.PNG)
-
 ![alt text](media/img/rendu_1.png)
 
 ![alt text](media/img/rendu_2.jpg)
+
+![alt text](media/img/etape.PNG)
 
 ## écazard
 
