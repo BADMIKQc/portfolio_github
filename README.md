@@ -66,7 +66,7 @@ Le temple prismatique est un mini-jeux interactif avec le thème d'«escape game
 
 ## Esprit gourmand
 
-
+![alt text](media/img/cuisine.jpg)
 
 
 
