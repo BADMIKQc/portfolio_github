@@ -68,7 +68,6 @@ Le temple prismatique est un mini-jeux interactif avec le thème d'«escape game
 
 Esprit gourmand est un jeu en réalité virtuel qui est inspiré des jeux de cuisine. Le but du jeu est de cuisiner des plats avec les bons ingrédients pour les servir aux clients. J'ai fait tous les éléments de la scène 3D et j'ai assisté à la conception des interactions dans Unity. Les logiciels utilisés sont: Maya, substances et Unity.
 
-![alt text](media/img/cuisine.jpg)
 
 [![img BIOTA](media/img/cuisine.jpg)](https://youtu.be/9wXB3eh3WQQ)
 
