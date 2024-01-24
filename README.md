@@ -50,11 +50,11 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 ## Esprit gourmand
 
 ![alt text](media/img/rendu_temple.jpg)
+<p align="center">
+<img align="center" src='media/img/boite_2.jpg' width='400'>
 
-<img src='media/img/boite_2.jpg' width='250'>
-
-<img src='media/img/boite_1.jpg' width='250'>
-
+<img align="center" src='media/img/boite_1.jpg' width='400'>
+</p>
 ## Idari
 
  Idari est un projet d'environnement 3D inspiré des projets 3D de mini environnement. J'ai utilisé Maya pour la modélisation et les UV, ainsi que Substance pour les textures.
