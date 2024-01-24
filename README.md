@@ -51,9 +51,9 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 ![alt text](media/img/rendu_temple.jpg)
 
-
-
 <img src='media/img/boite_2.jpg' width='250'>
+
+<img src='media/img/boite_1.jpg' width='250'>
 
 ## Idari
 
