@@ -44,6 +44,12 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 - graphisme
 
+## Unity
+
+- création de jeux
+
+- assemblage de scène
+
 
 # réalisations
 
