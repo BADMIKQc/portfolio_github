@@ -47,6 +47,10 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 # réalisations
 
+## Esprit gourmand
+
+![alt text](media/img/rendu_temple.jpg)
+
 ## Idari
 
  Idari est un projet d'environnement 3D inspiré des projets 3D de mini environnement. J'ai utilisé Maya pour la modélisation et les UV, ainsi que Substance pour les textures.
