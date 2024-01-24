@@ -49,6 +49,8 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 
 ## Le temple prismatique
 
+Le temple prismatique est un mini-jeux interactif avec le thème d'«escape game». L'utilisateur cherche à résoudre les énigmes à l'intérieur du temple grâce à plusieurs boutons qui se trouve au-dessus d'une boîte qui représente ce temple. J'ai fait tous les éléments de la scène 3D, j'ai fait une impression 3D de la boîte et j'ai assisté à la conception des énigmes dans Unity. Les logiciels utilisés sont: Maya, substances, Unity, Max 8 et arduino.
+
 ![alt text](media/img/rendu_temple.jpg)
 <p align="center">
 <img align="center" src='media/img/boite_2.jpg' width='400'>
@@ -56,7 +58,7 @@ M’améliorer dans le domaine du multimédia en obtenant de l’expérience dan
 <img align="center" src='media/img/boite_1.jpg' width='400'>
 </p>
 
-Le temple prismatique est un mini-jeux interactif avec le thème d'«escape game». L'utilisateur cherche à résoudre les énigmes à l'intérieur du temple grâce à plusieurs boutons qui se trouve au-dessus d'une boîte qui représente ce temple. J'ai fait tous les éléments de la scène 3D, j'ai fait une impression 3D de la boîte et j'ai assisté à la conception des énigmes dans Unity. Les logiciels utilisés sont: Maya, substances, Unity, Max 8 et arduino.
+
 
 ## Idari
 
